@@ -76,7 +76,7 @@
     width: 50px;
 }
 
-#copyright {
+.content #copyright {
     text-align: center;
     font-size: 10px;
     margin-top: 1%;
