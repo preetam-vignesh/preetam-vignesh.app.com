@@ -91,7 +91,7 @@
         text-align: center;
     }
     .content h1{
-	    font-size: 23px;
+	font-size: 23px;
         margin-left: 18px;
         text-decoration: underline;
         border-bottom-style: none;
@@ -109,7 +109,7 @@
     }
 
     .contactus {
-        margin-top: 49%;
+        margin-top: 53%;
         margin-left: 7%;
         margin-right: 7%;
         background-color: rgb(246, 170, 103);
